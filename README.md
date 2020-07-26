@@ -1,2 +1,3 @@
 # process
-General-purpose utilities for managing Go process
+
+General-purpose utilities for managing Go's processes.
